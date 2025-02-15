@@ -1,0 +1,75 @@
+---
+title: "OLC 733 - R ile Çok Değişkenli İstatistik ve Psikometri"
+subtitle: "Ders Notları ve Uygulamalar"
+author: "Doç. Dr. Kübra Atalay Kabasakal"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: html_document
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+# Ders Hakkında
+
+Bu dersin amacı, R yazılımını kullanarak veri üzerinde istenilen çok
+değişkenli istatistiksel ve psikometrik işlemlerin yapılabilmesini
+sağlamaktır.
+
+Tez ve makale çalışmalarında öğrencilerimizin analizlerini R yazılımı
+ile hiçbir paket programa ihtiyaç duymadan kendi başlarına yapmalarını
+sağlamaktır.
+
+# Ders İçeriği:
+
+-   Çok değişkenli İstatistik Varsayımları
+
+-   Çoklu Regresyon
+
+-   Yol Analizi Açımlayıcı
+
+-   Faktör Analizi
+
+-   Doğrulayıcı Faktör Analizi
+
+-   Progralamaya Giriş
+
+-   Klasik Test Kuramı
+
+-   Madde Tepki Kuramı
+
+-   Veri Üretimi
+
+## Kitaplar
+
+-   Atar, B., Atalay Kabasakal, K, Unsal Ozberk, E. B., Ozberk, E. H. &
+    Kibrislioglu Uysal, N. (2020). R ile Veri Analizi ve Psikometri
+    Uygulamaları, Pegem Akademi, Ankara.🔗 📖
+
+-   [N. Güler, B. Atar & K. Atalay-Kabasakal (Ed.), R ile psikometri
+    içinde. Pegem Akademi.](https://ekitap02.kitabi.gen.tr/)
+
+-   [Deha, D. C., & Can, A. E. (2023). R-Shiny ile Psikometri ve
+    İstatistik Uygulamaları (1. baskı). Pegem
+    Akademi.](https://ekitap01.kitabi.gen.tr/)
+
+-   Desjardins, C. D., & Bulut, O. (2018). Handbook of educational
+    measurement and psychometrics using R. Boca Raton, FL: CRC Press.
+    🔗📖
+
+-   Demir, E. R Diliyle İstatistik Uygulamaları. Pegem Akademi,
+    Ankara.(2021). 🔗📖
+
+-   Kline,R. B. (2019). Yapısal Eşitlik Modellemesinin İlkeleri ve
+    Uygulaması(4. Baskı). (S. Şen, Çev.) Ankara: Nobel Yayınevi.
+
+-   Şen, S. (2020). Mplus ile Yapısal Eşitlik Modellemesi Uygulamaları
+    (2020).Nobel Yayınevi.
+
+-   Tabachnick, B. G., & Fidell, L. S. (2012). Using Multivariate
+    Statistics (4rd ed.). New York: Harper Collins.
+
+-   Wolf, E. J., Harrington, K. M., Clark, S. L., & Miller, M. W.
+    (2013). Sample Size Requirements for Structural Equation Models: An
+    Evaluation of Power, Bias, and Solution Propriety. Educational and
+    Psychological Measurement, 73(6), 913–934.
+    <https://doi.org/10.1177/0013164413495237>
